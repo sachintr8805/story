@@ -1,7 +1,2 @@
 hi this is my story day1 and i am feeling very good because i was not feeling well because of the weather here
 i am fine now.
-
-this is a new change.
-this is a second new change.
-this is online change.
-this is first change from local in test branch from github.
